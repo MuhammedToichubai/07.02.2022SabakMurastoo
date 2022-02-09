@@ -14,11 +14,11 @@ public class Main {
     SheepOvsa sheepOvsa1 = new SheepOvsa("Koy1",(byte) 4,25.6d);
     SheepOvsa sheepOvsa2= new SheepOvsa("Koy2",(byte) 4,25.6d);
     SheepOvsa sheepOvsa3 = new SheepOvsa("Koy3",(byte) 4,25.6d);
-    SheepOvsa sheepOvsa4 = new SheepOvsa("Kochkor1",(byte) 5,25.6d);
-    SheepOvsa sheepOvsa5 = new SheepOvsa("Kochkor2",(byte) 6,25.6d);
-    SheepOvsa sheepOvsa6 = new SheepOvsa("Toktu1",(byte) 2,25.6d);
-    SheepOvsa sheepOvsa7 = new SheepOvsa("Kozu1",(byte) 1,25.6d);
-    SheepOvsa sheepOvsa8 = new SheepOvsa("Kozu2",(byte) 1,25.6d);
+    SheepOvsa sheepOvsa4 = new SheepOvsa("Kochkor1",(byte) 5,36.0d);
+    SheepOvsa sheepOvsa5 = new SheepOvsa("Kochkor2",(byte) 6,29.9d);
+    SheepOvsa sheepOvsa6 = new SheepOvsa("Toktu1",(byte) 2,20.3d);
+    SheepOvsa sheepOvsa7 = new SheepOvsa("Kozu1",(byte) 1,15.0d);
+    SheepOvsa sheepOvsa8 = new SheepOvsa("Kozu2",(byte) 1,14.8d);
     SheepOvsa[] sheepsFirma1 = {sheepOvsa1,sheepOvsa2,sheepOvsa3,sheepOvsa4,sheepOvsa5,sheepOvsa6,sheepOvsa7,sheepOvsa8};
 
     HorseLoshad horseLoshad1 = new HorseLoshad("Duldul",(byte) 5,280.0d);
